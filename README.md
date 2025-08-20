@@ -1,4 +1,4 @@
-# CodeAlpha_Network-Sniffer 
+# Network-Sniffer 
 
 ● A Python program to capture network traffic packets using Scapy (Packet manipulation Tool)
 - Analyze captured packets to understand their structure and content.
